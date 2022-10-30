@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Berita</title>
+	<atom:link href="/category/berita/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Kumpulan macam-macam</description>
+	<lastBuildDate>Sun, 05 Jun 2022 03:00:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/favicon.ico</url>
+	<title>Berita</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Edit chat di WhatsApp</title>
+		<link>/2022/06/05/edit-chat-di-whatsapp/</link>
+					<comments>/2022/06/05/edit-chat-di-whatsapp/#respond</comments>
+		
+		<dc:creator><![CDATA[galih]]></dc:creator>
+		<pubDate>Sun, 05 Jun 2022 02:54:01 +0000</pubDate>
+				<category><![CDATA[Berita]]></category>
+		<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">https://coretan.rempoah.com/?p=80</guid>
+
+					<description><![CDATA[Halo sahabat, kabar baik untuk kalian semua para pengguna whatsapp. Seperti yang kita ketahui saat ini, whatsapp tidak memiliki fitur untuk mengedit pesan ketika pesan telah kita kirim. Namun ada desas-desus terbaru terkait dengan penambahan fitur edit pesan yang sudah dinantikan oleh sebagian pengguna whatsapp. Tidak seperti rivalnya, Telegram, yang telah menyematkan fitur untuk edit&#8230; <div class="readmore-wrapper"><a href="/2022/06/05/edit-chat-di-whatsapp/" class="more-link">Read </a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Halo sahabat, kabar baik untuk kalian semua para pengguna whatsapp.</p>
+
+
+
+<p>Seperti yang kita ketahui saat ini, whatsapp tidak memiliki fitur untuk mengedit pesan ketika pesan telah kita kirim. Namun ada desas-desus terbaru terkait dengan penambahan fitur edit pesan yang sudah dinantikan oleh sebagian pengguna whatsapp.</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="682" src="https://coretan.rempoah.com/wp-content/uploads/2022/06/internet-3113279_1280-1024x682.jpg" alt="" class="wp-image-81" srcset="/wp-content/uploads/2022/06/internet-3113279_1280-1024x682.jpg 1024w, /wp-content/uploads/2022/06/internet-3113279_1280-300x200.jpg 300w, /wp-content/uploads/2022/06/internet-3113279_1280-768x512.jpg 768w, /wp-content/uploads/2022/06/internet-3113279_1280.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Tidak seperti rivalnya, Telegram, yang telah menyematkan fitur untuk edit pesan beberapa lama. Berdasarkan kabar dari <a rel="noreferrer noopener" href="https://wabetainfo.com/whatsapp-is-working-on-editing-text-messages/" data-type="URL" data-id="https://wabetainfo.com/whatsapp-is-working-on-editing-text-messages/" target="_blank">WABetaInfo</a>  saat ini fitur edit pesan yang telah terkirim pada whatsapp masih dalam tahap pengembangan. </p>
+
+
+
+<p>Beta tester pun belum bisa mencoba fitur edit pesan ini. Masih belum ada kabar kapan para pengguna maupun Beta Tester dapat mulai mencoba fitur ini</p>
+
+
+
+<p>Mari kita tunggu saja.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/06/05/edit-chat-di-whatsapp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
