@@ -1,4 +1,4 @@
 git add . &&
 git commit -m "deploy" &&
-git push oirgin master
+git push origin master
 
