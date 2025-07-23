@@ -1,0 +1,12 @@
+/*
+Theme Name: Twenty Twenty-Four Child
+Template: twentytwentyfour
+*/
+
+.tech-stack-group > figure > figure {
+    margin-bottom: inherit !important;
+}
+
+.c-full-height {
+    height: 60vh;
+}
