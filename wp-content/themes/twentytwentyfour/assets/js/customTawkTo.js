@@ -30,4 +30,22 @@ document.addEventListener('DOMContentLoaded', function(){
         observer.observe(ell);
     });
 
+    /* const showHideNav = () => {
+        const navbar = document.querySelector('header.wp-block-template-part');
+        if(window.scrollY > 100){
+            navbar.style.display = "block";
+        }else{
+            navbar.style.display = "none";
+        }
+        
+    }
+
+    const navbar = document.querySelector('header.wp-block-template-part');
+    navbar.style.position = "fixed";
+    navbar.style.top = "0";
+    navbar.style.width = "100vw";
+    navbar.style.zIndex = 99;
+
+    window.addEventListener('scroll', showHideNav); */
+
 });

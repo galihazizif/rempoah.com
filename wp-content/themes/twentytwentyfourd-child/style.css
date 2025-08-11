@@ -10,3 +10,22 @@ Template: twentytwentyfour
 .c-full-height {
     height: 100vh;
 }
+
+.fixed-navbar{
+    z-index: 29;
+    box-shadow: 10px 5px 5px red;
+}
+
+header.wp-block-template-part {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 90;
+}
+
+.firstsection {
+    margin-top: 680px;
+}
+.secondsection {
+    margin-top: 0px;
+}
