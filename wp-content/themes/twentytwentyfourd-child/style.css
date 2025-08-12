@@ -29,3 +29,9 @@ header.wp-block-template-part {
 .secondsection {
     margin-top: 0px;
 }
+
+.hidden-title{
+    visibility: hidden;
+    height: 0;
+    position: absolute;
+}
