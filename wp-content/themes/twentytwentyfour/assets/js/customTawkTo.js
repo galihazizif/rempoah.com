@@ -9,6 +9,11 @@ document.addEventListener('DOMContentLoaded', function(){
             if (typeof Tawk_API !== 'undefined') {
                 console.log(Tawk_API);
                 Tawk_API.maximize();
+                console.log('sincan');
+                var editors = document.querySelectorAll('.tawk-chatinput-editor');
+                editors.forEach(editor => {
+                    editor.innerText = 'Hello, how can I help you?';
+                });
             } else {
                 alert("Chat is not loaded yet.");
             }
