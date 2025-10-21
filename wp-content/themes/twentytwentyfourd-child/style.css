@@ -45,3 +45,27 @@ header.wp-block-template-part {
     backdrop-filter: blur(50px) !important;
     background-color: rgba(255, 255, 255, 0.9) !important;
 }
+
+
+.wp-block-post-featured-image {
+    overflow: hidden;
+}
+
+.wp-block-post-featured-image:after{
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 0%;
+  left: 50%;
+  top: 50%;
+  background-color: rgba(255,255,255,.3);
+  transform: translate(-50%,-50%) rotate(-45deg);
+  z-index: 1;
+  box-sizing: border-box
+}
+
+.wp-block-post-featured-image:hover:after{
+    height: 250%;
+    transition: all 600ms linear;
+    background-color: transparent;
+}
