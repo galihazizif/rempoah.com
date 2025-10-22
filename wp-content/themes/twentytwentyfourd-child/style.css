@@ -69,3 +69,9 @@ header.wp-block-template-part {
     transition: all 600ms linear;
     background-color: transparent;
 }
+
+ @media (max-width: 690px) { /* Adjust the max-width as needed for your mobile breakpoint */
+        .hide-on-mobile {
+            display: none !important;
+        }
+    }
